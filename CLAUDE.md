@@ -33,4 +33,4 @@ Example triggers:
 
 - Each skill directory is self-contained — `SKILL.md` plus `references/`
 - Skill files use frontmatter for discovery: `name`, `description`, `type: perspective`
-- All skills follow the **Nuwa v4.0** 3D distillation standard (DNA, Profile, Logic)
+- All skills follow the **Nuwa** 3D distillation standard (DNA, Profile, Logic)
